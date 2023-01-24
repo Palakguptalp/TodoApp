@@ -5,8 +5,6 @@ from .models import Todo
 from django.utils import timezone
 
 
-# Create your views here.
-
 
 def index(request):
 
